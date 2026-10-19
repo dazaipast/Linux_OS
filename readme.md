@@ -64,6 +64,10 @@
    - Практическая работа по основам GNU Assembler;
    - ДЗ 1: [Автоматизация компиляции Unix Makefiles](https://github.com/dazaipast/Linux_OS/tree/hw-make).
 
+## Доклад
+
+- [Эра Windows NT](https://github.com/dazaipast/Linux_OS/tree/report-windows-nt): от Windows NT 3.1 до Windows 11, ядро NT и то, что в нём не переписывали.
+
 ## Навигация по веткам
 
 | Ветка | Задание |
@@ -77,3 +81,4 @@
 | [hw-functions](https://github.com/dazaipast/Linux_OS/tree/hw-functions) | Функции Bash |
 | [hw-make](https://github.com/dazaipast/Linux_OS/tree/hw-make) | Сборка через Makefile |
 | [hw-daemons](https://github.com/dazaipast/Linux_OS/tree/hw-daemons) | Демоны и systemd |
+| [report-windows-nt](https://github.com/dazaipast/Linux_OS/tree/report-windows-nt) | Доклад «Эра Windows NT» |
