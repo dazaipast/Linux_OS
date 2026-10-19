@@ -16,20 +16,20 @@
 
 В план теоретических занятий входят:
 
-1. **История, назначение, функции и виды ОС**.
+1. **[История, назначение, функции и виды ОС](https://github.com/dazaipast/Linux_OS/tree/theory-1)**.
    - Студенты вспоминают историю вычислительной техники и узнают процесс возникновения операционных систем.
-2. **Структура ОС. Ядро. Процесс загрузки**.
+2. **[Структура ОС. Ядро. Процесс загрузки](https://github.com/dazaipast/Linux_OS/tree/theory-2)**.
    - Студенты знакомятся с типовой структурой операционной системы, условно поделенной на подсистемы, а также узнают понятие ядра и его роль.
    - Дополнительно показан процесс загрузки операционных систем для архитектуры x86.
-3. **Модель процесса**.
+3. **[Модель процесса](https://github.com/dazaipast/Linux_OS/tree/theory-3)**.
    - Студенты разбирают понятие процесса в операционных системах.
-4. **Потоки исполнения**.
+4. **[Потоки исполнения](https://github.com/dazaipast/Linux_OS/tree/theory-4)**.
    - Студенты узнают о потоках как о минимальных единицах выполнения инструкций в ОС.
-5. **Межпроцессное взаимодействие**.
+5. **[Межпроцессное взаимодействие](https://github.com/dazaipast/Linux_OS/tree/theory-5)**.
    - Студенты знакомятся со стандартными способами взаимодействия процессов между собой.
-6. **Организация памяти**.
+6. **[Организация памяти](https://github.com/dazaipast/Linux_OS/tree/theory-6)**.
    - Наиболее сложная тема, связанная с организацией работы виртуальной и физической памяти компьютера и способами разграничения адресного пространства между процессами.
-7. **Файловая система**.
+7. **[Файловая система](https://github.com/dazaipast/Linux_OS/tree/theory-7)**.
    - Студенты знакомятся с функциональностью подсистемы взаимодействия с дисковыми пространствами, таблицами разделов и файловыми системами `FAT`, `NTFS` и `ext4`.
 8. **Пользовательское пространство**.
    - Студенты узнают о форматах исполняемых файлов и процессе преобразования исходного кода, а также таких объектах пользовательского пространства как библиотеки и архивы.
@@ -82,3 +82,11 @@
 | [hw-make](https://github.com/dazaipast/Linux_OS/tree/hw-make) | Сборка через Makefile |
 | [hw-daemons](https://github.com/dazaipast/Linux_OS/tree/hw-daemons) | Демоны и systemd |
 | [report-windows-nt](https://github.com/dazaipast/Linux_OS/tree/report-windows-nt) | Доклад «Эра Windows NT» |
+| [theory](https://github.com/dazaipast/Linux_OS/tree/theory) | Оглавление лекций |
+| [theory-1](https://github.com/dazaipast/Linux_OS/tree/theory-1) | История, назначение, функции и виды ОС |
+| [theory-2](https://github.com/dazaipast/Linux_OS/tree/theory-2) | Структура ОС и загрузка |
+| [theory-3](https://github.com/dazaipast/Linux_OS/tree/theory-3) | Модель процесса |
+| [theory-4](https://github.com/dazaipast/Linux_OS/tree/theory-4) | Потоки выполнения |
+| [theory-5](https://github.com/dazaipast/Linux_OS/tree/theory-5) | Межпроцессное взаимодействие |
+| [theory-6](https://github.com/dazaipast/Linux_OS/tree/theory-6) | Организация памяти |
+| [theory-7](https://github.com/dazaipast/Linux_OS/tree/theory-7) | Файловая система |
